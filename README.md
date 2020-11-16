@@ -1,7 +1,11 @@
 # Tasks-List
-SPA Tasks List made with Vue, Python, Flask (with local API), MariaDB
+SPA Tasks List made with Vue, Python, Flask (with local API), MariaDB. Tablet & Desktop only.
 
 Dependencies: Python Virtual Environment, Flask, MariaDB, Axios
+
+
+![Screenshot of Tasks List on Desktop](https://i.imgur.com/KiXGzUv.png)
+
 
 # Project Setup
 ```
